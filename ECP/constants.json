@@ -1,0 +1,9 @@
+{
+  "sonarIssuesNamesArray":["Bug","Code Smell","Vulnerability"],
+  "sonarSeverityNamesArray":["Major","Minor","Critical","Blocker","Info"],
+  "sonarPriorityNamesArray":[],
+  "githubIssuesNamesArray":["Bug","Epic","Improvement","New Feature","Question","Task","Unknown"],
+  "githubSeverityNamesArray":["Blocker","Critical","Major","Minor","Trivial","Unknown"],
+  "githubPriorityNamesArray":["High","Highest","Low","Normal","Unknown"]
+
+}

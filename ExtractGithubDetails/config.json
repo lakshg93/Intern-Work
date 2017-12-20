@@ -1,0 +1,26 @@
+{
+  "jdbcUrl" : "<DB_URL>",
+  "mySQLusername" : "<USER_NAME>",
+  "mySQLpassword" : "<PASSWORD>",
+
+  "googleAccessToken" : "<ACCESS_TOKEN>",
+  "googleRefreshToken" :"<REFRESH_TOKEN>",
+  "googleClientId": "<CLIENT_ID>",
+  "googleClientSecret": "<CLIENT_SECRET>",
+
+
+  "gitCommitersSheetID":"<SHEET_ID>",
+  "gitCommitersRange" : "Sheet5!A2:L",
+
+  "github_Access_token":"<ACCESS_TOKEN>",
+
+  "valueInputOptions" : "RAW",
+  "fields" : "",
+  "dateTimeRenderOption":"SERIAL_NUMBER",
+  "valueRenderOption":"FORMATTED_VALUE",
+  "majorDimensions":"ROWS"
+
+
+
+
+}

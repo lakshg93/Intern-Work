@@ -1,0 +1,67 @@
+{
+  "Database":{
+		"PMT":{
+			"jdbcUrl" : "<DB_URL>",
+			"mySQLusername" : "<USER_NAME>",
+			"mySQLpassword" : "<PASSWORD>"
+		},
+		"PQD":{
+			"jdbcUrl" : "<DB_URL>",
+			"mySQLusername" : "<USER_NAME>",
+			"mySQLpassword" : "<PASSWORD>"
+		},
+		"Notes":{
+			"jdbcUrl" : "<DB_URL>",
+			"mySQLusername" : "<USER_NAME>",
+			"mySQLpassword" : "<PASSWORD>"
+		},
+		"Reviews":{
+			"jdbcUrl" : "<DB_URL>",
+			"mySQLusername" : "<USER_NAME>",
+			"mySQLpassword" : "<PASSWORD>"
+		},
+		"Rotations":{
+			"jdbcUrl" : "<DB_URL>",
+			"mySQLusername" : "<USER_NAME>",
+			"mySQLpassword" : "<PASSWORD>"
+		},
+		"GithubDetails":{
+			"jdbcUrl" : "<DB_URL>",
+			"mySQLusername" : "<USER_NAME>",
+			"mySQLpassword" : "<PASSWORD>"
+		},
+		"QSP":{
+			"jdbcUrl" : "<DB_URL>",
+			"mySQLusername" : "<USER_NAME>",
+			"mySQLpassword" : "<PASSWORD>"
+		}
+	},
+  "googleAccessToken" : "<ACCESS_TOKEN>",
+  "googleRefreshToken" :"<REFRESH_TOKEN>",
+  "googleClientId": "<CLIENT_ID>",
+  "googleClientSecret": "<CLIENT_SECRET>",
+
+  "newQspSpreadsheetId":"<SPREADSHEET_ID>",
+  "filterPlaceHolderCell" : "Sheet2!A1",
+  "newQspRange":"Sheet2!B:J",
+
+  "oldQspSpreadsheetId":"<SPREADSHEET_ID>",
+  "oldQspRange":"Sheet1!B2:AI",
+
+  "gitCommitersSheetID":"<SPREADSHEET_ID>",
+  "gitCommitersRange" : "Sheet5!A2:L",
+
+  "github_Access_token":"<ACCESS_TOKEN>",
+
+  "sonarAccessToken":"<ACCESS_TOKEN>",
+
+  "valueInputOptions" : "RAW",
+  "fields" : "",
+  "dateTimeRenderOption":"SERIAL_NUMBER",
+  "valueRenderOption":"FORMATTED_VALUE",
+  "majorDimensions":"ROWS",
+
+  "pubkey" : "<SERVER_PUBKEY>",
+  "authorizedRoles" : ["IS-WSO2.COM/engineering.manager.allocations.all.apps"]
+  
+}
